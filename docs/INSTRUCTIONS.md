@@ -18,7 +18,7 @@ Je leert hoe je ...
 ## Werkwijze
 *Hoe pak je dit aan, in welke fases van de DLC*
 
-Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
+Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
 
 ### Analyseren
 Uitleg..
