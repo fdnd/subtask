@@ -90,7 +90,7 @@ Uitleg..
 
 Focus sprint 9 - De focus van deze sprint ligt op ...
 
-Deze leertaak hoort bij het gedragscriterium:
+Deze leertaak hoort bij het gedragscriterium:  
 *Maak een keuze voor het bijbehorende criterium*
 
 M: ...  
