@@ -16,6 +16,8 @@ Je leert hoe je ...
 
 
 ## Werkwijze
+![Opdrachtomschrijving](opdrachtomschrijving.png)
+
 *Hoe pak je dit aan, in welke fases van de DLC*
 
 Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
