@@ -4,17 +4,6 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Naam deeltaak
 
-## Criterium 1
-<!-- instructies -->
-...
-
-## Criterium 2
-<!-- instructies -->
-...
-
-## Criterium 3
-<!-- instructies -->
-...
 
 ## Licentie
 
