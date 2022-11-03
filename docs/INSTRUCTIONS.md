@@ -5,9 +5,13 @@ Beschrijving van de deeltaak
 
 ## Context
 
-Deze leertaak hoort bij sprint # [sprintnaam]. Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Deze deeltaak hoort bij sprint # [sprintnaam]. 
+Dit is een deeltaak die je [individueel / in een team] uitvoert.
 
-In het college [[collegenaam](link)] wordt behandeld ... 
+In de workshop [[collegenaam](link)] wordt behandeld ... 
+
+Deze deeltaak hoort bij de leertaak:
+- [[leertaak](link)]
 
 
 ## Doel van deze opdracht
@@ -16,6 +20,7 @@ Je leert hoe je ...
 
 
 ## Werkwijze
+
 ![Opdrachtomschrijving](opdrachtomschrijving.png)
 
 *Hoe pak je dit aan, in welke fases van de DLC*
