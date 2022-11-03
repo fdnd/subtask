@@ -1,14 +1,14 @@
 
-# [sprintnaam] - [deeltaak-naam]
+# [Sprintnaam] - [Deeltaak-naam]
 
-Beschrijving van de deeltaak
+[Beschrijving van de deeltaak]
 
 ## Context
 
-Deze deeltaak hoort bij sprint # [sprintnaam]. 
+Deze deeltaak hoort bij sprint # [Sprintnaam]. 
 Dit is een deeltaak die je [individueel / in een team] uitvoert.
 
-In de workshop [[collegenaam](link)] wordt behandeld ... 
+In de workshop [[Workshopnaam](link)] wordt behandeld ... 
 
 Deze deeltaak hoort bij de leertaak:
 - [[leertaak](link)]
