@@ -1,5 +1,5 @@
 
-# [Sprintnaam] - [Deeltaak-naam]
+# [Deeltaak-naam]
 
 [Beschrijving van de deeltaak]
 
