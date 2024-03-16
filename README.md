@@ -2,6 +2,7 @@
 
 # Naam deeltaak
 
+[Beschrijving van de deeltaak]
 
 ## Licentie
 
