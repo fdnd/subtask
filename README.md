@@ -1,4 +1,5 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+> _Fork_ deze deeltaak en ga aan de slag.
+> De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/url-naar-online-instructions)
 
 # Naam deeltaak
 
